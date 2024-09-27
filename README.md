@@ -1,3 +1,4 @@
-# Inventory, sales and product analysis with Power BI
+# Supply Chain, sales and product analysis with Power BI
 
-![image](https://github.com/sheunq/power-BI/assets/45465445/48c6a75d-90dd-455c-85f2-ca50be50c1de)
+
+![image](https://github.com/user-attachments/assets/949e255c-9a36-4151-b302-05c535ba9ebc)
